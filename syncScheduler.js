@@ -1,7 +1,7 @@
 // 設定一覧
 const CONFIG = {
   // 同期先カレンダー名
-  CALENDAR_NAME: "ROARテスト",
+  CALENDAR_NAME: "Brass Band ROAR! 練習日程",
   // 開始時刻セルが空のときの既定値
   DEFAULT_START: "19:30",
   // 終了時刻セルが空のときの既定値
